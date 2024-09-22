@@ -1,1 +1,4 @@
-# web-resume
+# Assignment: Web Resume
+# Creator: Joshua Butny
+# Creator-Contact: joshuambutny@lewisu.edu
+# Content Originality: ChatGPT was fed the example text shown in the standard Lewis University resume format and was asked to put it into a resume format. I then copied the code over and proceeded to make adjustments to the HTML and CSS to make it match the resume format we were supposed to recreate. Specifically I had to add bottom-borders to the headers, add bullet points to the lists and remove bullet points from the indented sublists (see LEADERSHIP,ACTIVITIES AND VOLUNTEER EXPERIENCE section), I also changed the margins of essentially every style located in index.css and overrode others directly in the index.html. The main help that ChatGPT provided was creating basic html that included all the information it was asked to present, center all said information while keeping it to the left, and creating a backdrop that results in the resume popping out more and looking like a real piece of paper. 
